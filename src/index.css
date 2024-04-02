@@ -6,4 +6,6 @@ body {
   background-image: url(./assets/bg.jpg);
   background: cover;
   font-family: monospace;
+  color: white;
+  overflow: hidden;
 }
