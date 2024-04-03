@@ -6,7 +6,10 @@ const Project = () => {
     <div>
       <Carousel className="items-center mx-auto w-2/5">
         <div>
-          <img src="/src/assets/porjects/mern.png" alt="" />
+          <img
+            src="https://res.cloudinary.com/karan-auth/image/upload/v1712134656/mern_rimvur.png"
+            alt=""
+          />
           <p className="text-4xl font-semibold mx-auto px-6 py-4">
             MERN Auth App
           </p>
@@ -24,7 +27,11 @@ const Project = () => {
           </div>
         </div>
         <div>
-          <img src="/src/assets/porjects/psm.png" alt="" className="h-2/3" />
+          <img
+            src="https://res.cloudinary.com/karan-auth/image/upload/v1712134657/psm_gbcldz.png"
+            alt=""
+            className="h-2/3"
+          />
           <p>Project 2</p>
           <div className="flex flex-row justify-evenly ">
             <button className="bg-white text-black rounded-lg text-2xl px-6 py-4">
