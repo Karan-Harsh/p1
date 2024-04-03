@@ -7,7 +7,7 @@ const NavBar = () => {
         <div className="w-42 h-32 mr-4">
           <Link to={"/"}>
             <img
-              src="/src/assets/logo-removebg-preview.png"
+              src="/src/assets/logo-removebg-preview.svg"
               alt="logo"
               className="w-full h-full"
             />
