@@ -3,7 +3,7 @@ import "./App.css";
 import NavBar from "./components/NavBar";
 import Home from "./components/Home";
 import About from "./components/About";
-import { Project } from "./components/Project";
+import Project from "./components/Project";
 import Contact from "./components/Contact";
 import FinalSkill from "./components/FinalSkill";
 function App() {
